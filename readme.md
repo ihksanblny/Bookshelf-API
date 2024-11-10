@@ -28,4 +28,4 @@ Ikuti langkah-langkah berikut untuk memulai:
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/ihksanblny/Bookshelf-API.git
